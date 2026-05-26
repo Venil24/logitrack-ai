@@ -279,10 +279,8 @@ The seeder initializes the database with ready-to-test profiles representing eac
 ## 👥 DevFusion Team
 
 This system was engineered by Team **DevFusion** for high-performance logistics automation:
-*   **Team Lead** — Full-stack Architect & WebSocket Orchestration
-*   **Backend Developer** — FastAPI Design, Security, and Database Optimization
-*   **Data Scientist** — XGBoost Forecasting, Random Forest Classifiers, & Operational Solvers
-*   **Frontend UI Designer** — Next.js 15 App Layouts, Leaflet Integration, & Tailwind UX
+*   **Venil** — Frontend Developer (Next.js 15 App Layouts, Leaflet Integration, & Tailwind UX)
+*   **Yash Patel** — Backend Developer & Data Scientist (FastAPI Design, Security, Database Optimization, & ML Engine)
 
 ---
 
